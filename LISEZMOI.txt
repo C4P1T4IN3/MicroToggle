@@ -1,0 +1,22 @@
+MICROTOGGLE - Windows 10/11
+
+1. Installer Python avec le lanceur py (Python 3.11 ou 3.12 conseille).
+2. Extraire tout le ZIP dans un dossier permanent.
+3. Double-cliquer installer_et_lancer.bat.
+4. Une icone apparait pres de l'horloge (eventuellement dans la fleche des icones masquees).
+5. Clic droit > Demarrer avec Windows pour activer le lancement a la connexion.
+6. Shift + 9 du pave numerique : couper/reactiver tous les micros actifs.
+
+Rouge = tous les micros coupes. Vert = au moins un micro actif. Gris = attente/erreur.
+Le programme ne modifie pas les autorisations de confidentialite de Windows.
+Activer les autorisations du micro avant utilisation.
+Le raccourci n'est pas bloque : le jeu peut egalement le recevoir.
+Certains jeux, anti-triches ou logiciels eleves peuvent empecher sa detection.
+Le raccourci utilise le scan code physique du pave numerique ; a tester avec votre clavier.
+Les microphones branches alors que le mute est actif ne sont pas automatiquement coupes.
+Les applications peuvent modifier le mute ; ce programme n'est pas un verrou de confidentialite.
+Quitter conserve l'etat courant du micro. Pour revenir a la normale : Reactiver tous les micros puis Quitter.
+Pour desinstaller : decocher Demarrer avec Windows, quitter, supprimer ce dossier.
+Les journaux restent dans %LOCALAPPDATA%\MicroToggle.
+
+Projet fourni non teste ici sur Windows. Aucune capture ni aucun envoi de son.
