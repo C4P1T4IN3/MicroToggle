@@ -19,4 +19,4 @@ Quitter conserve l'etat courant du micro. Pour revenir a la normale : Reactiver 
 Pour desinstaller : decocher Demarrer avec Windows, quitter, supprimer ce dossier.
 Les journaux restent dans %LOCALAPPDATA%\MicroToggle.
 
-Projet fourni non teste ici sur Windows. Aucune capture ni aucun envoi de son.
+Projet tester uniquement sur Windows 11
