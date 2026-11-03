@@ -214,16 +214,25 @@ Pour supprimer également les journaux, supprime ce dossier :
 %LOCALAPPDATA%\MicroToggle
 ```
 
-## 🤝 Signaler un problème
+## 🎫 Support et signalement de bugs
 
-Ouvre une issue en indiquant :
+Besoin d’aide pour installer ou utiliser MicroToggle ? Tu rencontres un bug ?
+
+Rejoins notre serveur Discord et ouvre un ticket dans la section dédiée au support :
+
+👉 [Rejoindre le Discord](https://discord.gg/K6u7kdGt95)
+
+Pour nous aider à résoudre ton problème, précise dans ton ticket :
 
 - ta version de Windows ;
 - ta version de Python ;
-- ton type de clavier ;
+- une description du problème et les étapes pour le reproduire ;
 - si le problème apparaît sur le bureau ou uniquement dans un jeu ;
-- les étapes permettant de reproduire le problème ;
-- les lignes pertinentes du journal, après avoir retiré toute information personnelle.
+- une capture d’écran ou les lignes pertinentes du journal, si nécessaire.
+
+Le journal est accessible depuis l’icône de l’application → `Ouvrir le journal`.
+
+> Pense à masquer toute information personnelle avant de partager une capture ou un journal.
 
 ## 📄 Licence
 
